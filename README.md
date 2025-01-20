@@ -1,5 +1,5 @@
-# SkilloVilla_Capstone_Python
-Skillovilla Capstone Python Projects
+# Python project
+
 ## Dataset: https://github.com/Jagannathro/Capstone_Python/blob/main/capstone_python.pdf
 ## Solution: https://github.com/Jagannathro/Capstone_Python/blob/main/Capstone_Python_Jagannath.ipynb
 ##Problems
